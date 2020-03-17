@@ -6,16 +6,16 @@
 
 ## Description
 
-This is my first webpage.
+
 
 ## Setup/Installation Requirements
 
 Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
-* git clone 
+* git clone https://github.com/christinereina/epicodus-favoritethings
 
-Open folder and drag favorite-things.html into your preferred web browser
+Open folder and drag favorite-things.html file into your preferred web browser
 
 ## Known Bugs
 
@@ -28,7 +28,7 @@ _Antonio Cruz's email:_
 _codrocks.cruz3@gmail.com_
 
 _Christine Augustine's email:_
-blacchoy@gmail.com
+_blacchoy@gmail.com_
 
 ## Technologies Used
 
