@@ -6,7 +6,7 @@
 
 ## Description
 
-
+A fun engaging webpage about favorite things. 
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,6 @@ Open folder and drag favorite-things.html file into your preferred web browser
 No known issues as of 3/17/2020
 
 ## Support and contact details
-
 
 _Antonio Cruz's email:_
 _codrocks.cruz3@gmail.com_
