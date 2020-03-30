@@ -2,7 +2,7 @@
 
 #### _Week One Epicodus HTML & CSS Practice, 03.17.2020_
 
-#### By _**Christine Augustine, Antonio Cruz**_
+#### By _**Tyler Bates, Antonio Cruz**_
 
 ## Description
 
@@ -26,8 +26,7 @@ No known issues as of 3/17/2020
 _Antonio Cruz's email:_
 _codrocks.cruz3@gmail.com_
 
-_Christine Augustine's email:_
-_blacchoy@gmail.com_
+[INSERT TYLER'S INFO HERE]
 
 ## Technologies Used
 
@@ -40,4 +39,4 @@ _blacchoy@gmail.com_
 
 **The MIT license**
 
-Copyright (c) 2020 **Antonio Cruz, Christine Augustine**
+Copyright (c) 2020 **Antonio Cruz, Tyler Bates**
