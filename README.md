@@ -30,6 +30,9 @@ _codrocks.cruz3@gmail.com_
 
 ## Technologies Used
 
+* _Bootstrap_
+* _JavaScript_
+* _jQuery_
 * _Markdown_
 * _Git_
 * _HTML_
